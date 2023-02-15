@@ -24,7 +24,7 @@ function changeBackground() {
             break;
 
         case "cancer":
-            document.body.style.backgroundColor = "#ffb1b1"; //persian red
+            document.body.style.backgroundColor = "#dadbdd"; //persian red
             const para4 = document.createElement("p");
             para4.innerText = "The Cancer colors are white and silver, creating a sense of calmness as they connect your intuition and give you a clean slate. Like the glistening surface of water or the shining face of the moon, silver and white are colors of purity";
             document.body.appendChild(para4);
@@ -33,7 +33,7 @@ function changeBackground() {
         case "leo":
             document.body.style.backgroundColor = "#dab135"; //Aznac
             const para5 = document.createElement("p");
-            para5.innerText = "You love drama, theatrics, and encouraging others to express their true selves.";
+            para5.innerText = "Leos are ruled by the sun and, like the sun, are often the charismatic center of their environment. By channeling your zodiac sign's colors, you'll allow your inner brilliance to resonate with the world around you.";
             document.body.appendChild(para5);
             break;
 
